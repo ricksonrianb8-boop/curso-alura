@@ -1,36 +1,22 @@
 ﻿# 💻 Curso Alura
 
-Repositório dedicado aos projetos, exercícios e atividades desenvolvidos durante meus estudos de programação na Alura.
+Repositório de projetos desenvolvidos durante meus estudos de programação.
 
-## 🚀 Sobre o projeto
+## 🚀 Projeto Tecboard
 
-Este repositório reúne minha evolução no desenvolvimento web, com atividades práticas e projetos criados durante minha jornada de aprendizado.
+Projeto web desenvolvido com HTML5 e CSS3.
 
-## 🛠️ Tecnologias
+### 📂 Acesse os códigos
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript
+- 🌐 **[Abrir código HTML](./tecboard/index.html)**
+- 🎨 **[Abrir código CSS](./tecboard/css/style.css)**
+- 🖼️ **[Ver pasta de imagens](./tecboard/img/)**
 
-## 📂 Projetos
+### 🛠️ Tecnologias
 
-| Projeto | Descrição | Acesso |
-|---|---|---|
-| Curso Alura | Repositório com atividades e projetos dos cursos | [Ver repositório](https://github.com/ricksonrianb8-boop/curso-alura) |
-
-## 🌐 Links
-
-- 📁 [Repositório no GitHub](https://github.com/ricksonrianb8-boop/curso-alura)
-- 👨‍💻 [Meu perfil no GitHub](https://github.com/ricksonrianb8-boop)
-
-## 📈 Objetivo
-
-Praticar programação, desenvolver novos projetos e aprimorar minhas habilidades em desenvolvimento web.
+- HTML5
+- CSS3
 
 ---
 
-<div align="center">
-
-**Desenvolvido durante meus estudos de programação.**
-
-</div>
+Desenvolvido durante meus estudos de programação.
